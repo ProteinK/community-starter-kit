@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+> Hey there, thanks for opening your first issue! You can learn more about how to contribute to this project by reading [this file](../CONTRIBUTING.md).
