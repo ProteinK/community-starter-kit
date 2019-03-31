@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is the coolest bot that writes welcome messages for you on Github.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+This amazing bot comments welcome messages on the commits and pull requests of first-time contributors.
 
 ## Getting started
 
